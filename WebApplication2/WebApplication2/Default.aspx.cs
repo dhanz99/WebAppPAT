@@ -21,7 +21,7 @@ namespace WebApplication2
             InsertUser u = new InsertUser();
             u.Name = TextBox1.Text;
             u.Email = TextBox2.Text;
-            string r = client.Insert(u);
+            var r = client.Insert(u);
             lblmsg.Text = r.ToString();
         }
 

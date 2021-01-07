@@ -7,12 +7,11 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace WebApplication2 {
-
-
-    public partial class _Default
-    {
-
+namespace WebApplication1 {
+    
+    
+    public partial class _Default {
+        
         /// <summary>
         /// Label3 control.
         /// </summary>
@@ -21,7 +20,7 @@ namespace WebApplication2 {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.Label Label3;
-
+        
         /// <summary>
         /// TextBox3 control.
         /// </summary>
@@ -30,7 +29,7 @@ namespace WebApplication2 {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.TextBox TextBox3;
-
+        
         /// <summary>
         /// TextBox1 control.
         /// </summary>
@@ -39,7 +38,7 @@ namespace WebApplication2 {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.TextBox TextBox1;
-
+        
         /// <summary>
         /// TextBox2 control.
         /// </summary>
@@ -48,7 +47,7 @@ namespace WebApplication2 {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.TextBox TextBox2;
-
+        
         /// <summary>
         /// Button1 control.
         /// </summary>
@@ -57,7 +56,7 @@ namespace WebApplication2 {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.Button Button1;
-
+        
         /// <summary>
         /// Button2 control.
         /// </summary>
@@ -66,7 +65,7 @@ namespace WebApplication2 {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.Button Button2;
-
+        
         /// <summary>
         /// Button3 control.
         /// </summary>
@@ -75,7 +74,7 @@ namespace WebApplication2 {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.Button Button3;
-
+        
         /// <summary>
         /// Button4 control.
         /// </summary>
@@ -84,7 +83,7 @@ namespace WebApplication2 {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.Button Button4;
-
+        
         /// <summary>
         /// lblmsg control.
         /// </summary>
@@ -93,7 +92,7 @@ namespace WebApplication2 {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.Label lblmsg;
-
+        
         /// <summary>
         /// GridView1 control.
         /// </summary>
